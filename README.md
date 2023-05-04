@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Sveta</a> 
 <img src="https://github.com/ssvph/ssvph/blob/main/donkey.gif" height="38"/></h1>
-<h3 align="center">Data Scientist self-student
-  <h4>Education
-    <ul>
-      <li>Information Security Bachelor's degree at ITMO University, St.Petersburg</li>
-    </ul>
-  </h4>
-</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&pause=1000&color=671723&center=true&width=935&lines=Data+scientist+self-student" alt="Typing SVG" /></a>
+<h3>Education</h3>
+  <ul>
+    <a><li>Information Security Bachelor's degree at ITMO University, St.Petersburg</li></a>
+  </ul>
+
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
 
