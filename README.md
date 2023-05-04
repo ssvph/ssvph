@@ -1,6 +1,15 @@
 <h1 align="center">Hi there, I'm Sveta</a> 
-<img src="https://giphy.com/embed/u2wg2uXJbHzkXkPphr/video"></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<img src="https://github.com/ssvph/ssvph/blob/main/donkey.gif" height="38"/></h1>
+<h3 align="center">Data Scientist self-student
+  <h4>Education
+    <ul>
+      <li>Information Security Bachelor's degree at ITMO University, St.Petersburg</li>
+    </ul>
+  </h4>
+</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
 
 <!--
 **ssvph/ssvph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
